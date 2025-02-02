@@ -87,7 +87,7 @@ outputs:
     route_mode_for_oval_holes: false
     output: '%f%i.%x'
     
-- name: Gerber_circuit
+- name: Gerber_front
   comment: ZIP file for JLCPCB
   type: compress
   #dir: /
